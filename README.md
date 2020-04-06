@@ -40,6 +40,7 @@ These are our ingredients,let's see how to make it.
 
 
 ## Vücut kütle indeksleri:
+|--------|--------|
 |kişi|Vücut kütle indeksi|
 |Alperen (ben)|19,3 kg/m2|
 |Ömer (Abim)|23,2 kg/m2|
